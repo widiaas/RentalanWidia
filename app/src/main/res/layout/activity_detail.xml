@@ -141,7 +141,7 @@
 
     <Button
         android:textStyle="bold"
-        android:textColor="#fff"
+        android:textColor="@color/white"
         android:text="Lanjutkan"
         android:layout_marginTop="@dimen/_10sdp"
         android:background="@drawable/btnlanjutkan"

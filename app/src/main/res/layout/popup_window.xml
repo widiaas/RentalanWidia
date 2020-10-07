@@ -35,7 +35,7 @@
         <TextView
             android:textSize="@dimen/_8sdp"
             android:fontFamily="sans-serif"
-            android:textColor="@color/basecolor"
+            android:textColor="@color/hitam"
             android:layout_gravity="center_horizontal"
             android:text="Silahkan login kembali untuk masuk"
             android:layout_width="wrap_content"
